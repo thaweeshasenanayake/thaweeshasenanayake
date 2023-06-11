@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thaweesha Senanayake</h1>
-<h3 align="center">An Undergraduate Software Engineer from Sri Lanka.</h3>
+<h3 align="center">An Associate Software Engineer and Undergraduate Software Engineer from Sri Lanka.</h3>
 
 - 🔭 I’m currently studying at [Open University Sri Lanka](https://www.ou.ac.lk)
 
-- 🌱 I’m currently learning **React, Sass**
+- 🌱 I’m currently learning **Cloud Native Development (Azure)**
 
 - 💬 Ask me about **Frontend Development**
 
