@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Native Development (Azure)**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **thaweeshasenanayake@gmail.com**
 
