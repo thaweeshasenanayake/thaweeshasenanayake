@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thaweesha Senanayake</h1>
-<h3 align="center">An Associate Software Engineer and Undergraduate Software Engineer from Sri Lanka.</h3>
+<h3 align="center">Software Engineer and Undergraduate Software Engineer from Sri Lanka.</h3>
 
 - 🔭 I’m currently studying at [Open University Sri Lanka](https://www.ou.ac.lk)
 
